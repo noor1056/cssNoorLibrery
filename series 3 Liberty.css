@@ -1,0 +1,57 @@
+.bt-primary {border:1px solid #3b5998;outline:0;background:#fff;color:#3b5998;padding:3px;font-size:1.5em;text-transform:capitalize;} .btg-primary {
+border:0px solid #3b5998 ;
+outline:0;
+background:#3b5998;
+color:#fff;
+padding:3px;
+font-size:1.5em;
+text-transform:capitalize;
+} .btg-danger {
+border:0px solid #3b5998 ;
+outline:0;
+background:red;
+color:#fff;
+padding:3px;
+font-size:1.5em;
+text-transform:capitalize;
+} .btg-danger {
+border:1px solid red ;
+outline:0;
+background:#fff;
+color:red;
+padding:3px;
+font-size:1.5em;
+text-transform:capitalize;
+} .d-flex {
+display:flex;
+}
+.d-grid {
+display:grid;
+}
+.d-block {
+display:block;
+}
+.d-inline {
+display:inline;
+}.d-table {
+display:table;
+}
+.jc-center {
+justify-content:center;
+}.jc-space-between {
+justify-content:space-between;
+}.p-absolute {
+position:absolute;
+}.p-relative {
+position:relative;
+}
+.t-sc {
+text-transform:capitalize;
+}.t-small {
+text-transform:lowercase;
+}.t-capital {
+text-transform:uppercase;
+}.t-tnone {
+text-transform:none;
+}
+.t-red{color:red;}   .bgt-red{background-color:red;} .t-orange{color:orange;}   .bgt-orange{background-color:orange;} .t-yellow{color:yellow;}   .bgt-yellow{background-color:yellow;} .t-green{color:green;}   .bgt-green{background-color:green;} .t-blue{color:blue;}   .bgt-blue{background-color:blue;} .t-purple{color:purple;}   .bgt-purple{background-color:purple;} .t-pink{color:pink;}   .bgt-pink{background-color:pink;} .t-brown{color:brown;}   .bgt-brown{background-color:brown;} .t-black{color:black;}   .bgt-black{background-color:black;} .t-white{color:white;}   .bgt-white{background-color:white;} .t-gray{color:gray;}   .bgt-gray{background-color:gray;} .t-silver{color:silver;}   .bgt-silver{background-color:silver;} .t-gold{color:gold;}   .bgt-gold{background-color:gold;} .t-beige{color:beige;}   .bgt-beige{background-color:beige;} .t-maroon{color:maroon;}   .bgt-maroon{background-color:maroon;} .t-magenta{color:magenta;}   .bgt-magenta{background-color:magenta;} .t-turquoise{color:turquoise;}   .bgt-turquoise{background-color:turquoise;} .t-teal{color:teal;}   .bgt-teal{background-color:teal;} .t-indigo{color:indigo;}   .bgt-indigo{background-color:indigo;} .t-navy{color:navy;}   .bgt-navy{background-color:navy;} .t-coral{color:coral;}   .bgt-coral{background-color:coral;} .t-olive{color:olive;}   .bgt-olive{background-color:olive;} .t-khaki{color:khaki;}   .bgt-khaki{background-color:khaki;} .t-fuchsia{color:fuchsia;}   .bgt-fuchsia{background-color:fuchsia;} .t-salmon{color:salmon;}   .bgt-salmon{background-color:salmon;} .t-skyblue{color:skyblue;}   .bgt-skyblue{background-color:skyblue;} .t-royalblue{color:royalblue;}   .bgt-royalblue{background-color:royalblue;} .t-forestgreen{color:forestgreen;}   .bgt-forestgreen{background-color:forestgreen;} .t-chartreuse{color:chartreuse;}   .bgt-chartreuse{background-color:chartreuse;} .t-aquamarine{color:aquamarine;}   .bgt-aquamarine{background-color:aquamarine;} .t-azure{color:azure;}   .bgt-azure{background-color:azure;} .t-crimson{color:crimson;}   .bgt-crimson{background-color:crimson;} .t-cyan{color:cyan;}   .bgt-cyan{background-color:cyan;} .t-firebrick{color:firebrick;}   .bgt-firebrick{background-color:firebrick;} .t-forestgreen{color:forestgreen;}   .bgt-forestgreen{background-color:forestgreen;} .t-lightblue{color:lightblue;}   .bgt-lightblue{background-color:lightblue;} .t-limegreen{color:limegreen;}   .bgt-limegreen{background-color:limegreen;} .t-navy{color:navy;}   .bgt-navy{background-color:navy;} .t-blue{color:blue;}   .bgt-blue{background-color:blue;} .t-olive{color:olive;}   .bgt-olive{background-color:olive;} .t-green{color:green;}   .bgt-green{background-color:green;} .t-orchid{color:orchid;}   .bgt-orchid{background-color:orchid;} .t-tan{color:tan;}   .bgt-tan{background-color:tan;} .t-thistle{color:thistle;}   .bgt-thistle{background-color:thistle;} .t-turquoise{color:turquoise;}   .bgt-turquoise{background-color:turquoise;} .t-blue{color:blue;}   .bgt-blue{background-color:blue;} .t-violet{color:violet;}   .bgt-violet{background-color:violet;} .t-yellowgreen{color:yellowgreen;}   .bgt-yellowgreen{background-color:yellowgreen;} .t-undefined"{color:undefined";}   .bgt-undefined"{background-color:undefined";} 
